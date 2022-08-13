@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestGtkmm", "TestGtkmm\Test
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorldforGtkmm", "HelloWorldforGtkmm\HelloWorldforGtkmm.vcxproj", "{B21C0330-D300-43AB-9F45-B22365EDC41D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Button", "Button\Button.vcxproj", "{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B21C0330-D300-43AB-9F45-B22365EDC41D}.Release|x64.Build.0 = Release|x64
 		{B21C0330-D300-43AB-9F45-B22365EDC41D}.Release|x86.ActiveCfg = Release|Win32
 		{B21C0330-D300-43AB-9F45-B22365EDC41D}.Release|x86.Build.0 = Release|Win32
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Debug|x64.ActiveCfg = Debug|x64
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Debug|x64.Build.0 = Debug|x64
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Debug|x86.ActiveCfg = Debug|Win32
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Debug|x86.Build.0 = Debug|Win32
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Release|x64.ActiveCfg = Release|x64
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Release|x64.Build.0 = Release|x64
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Release|x86.ActiveCfg = Release|Win32
+		{98469DFF-F92B-4B1F-B6A2-0CA54FB14D7B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
